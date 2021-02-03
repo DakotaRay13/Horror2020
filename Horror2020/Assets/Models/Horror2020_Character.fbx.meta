@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: b1a89efbf072720408cede6447d0f998
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 3311182999695634066
+    second: CharacterRig|Hooray
+  - first:
+      74: -7799225247399967932
+    second: CharacterRig|Run
+  - first:
+      74: -4436181837350435097
+    second: CharacterRig|Stand
+  - first:
+      74: 1319134762575063180
+    second: CharacterRig|Stand_Shocked
+  - first:
+      74: 1462021494730937107
+    second: CharacterRig|Idle
+  - first:
+      74: 7520521988427144030
+    second: CharacterRig|Idle
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyes
+    second: {fileID: 2100000, guid: f5f8e72ddeee098459fd6b9ec9675fad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair
+    second: {fileID: 2100000, guid: 0091d1b95b4f095428cab6ed0598de16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pants
+    second: {fileID: 2100000, guid: 2b127f8ed0e53a64e829e4a5d22cf28b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puples
+    second: {fileID: 2100000, guid: eeb700ef0c74ec74590d85c631a3194a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt
+    second: {fileID: 2100000, guid: dae8516b5d94f8a49bdef76f95414f2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: fb77cbbbe9f53294598e00bfd8f437de, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - CharacterRig
+    - Eyes
+    - Hair
+    - Male Body
+    - Pants and Shoes
+    - Shirt
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CharacterRig|Hooray
+      takeName: CharacterRig|Hooray
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CharacterRig|Run
+      takeName: CharacterRig|Run
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CharacterRig|Stand
+      takeName: CharacterRig|Stand
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 1
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CharacterRig|Stand_Shocked
+      takeName: CharacterRig|Stand_Shocked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 1
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CharacterRig|Idle
+      takeName: CharacterRig|Hooray
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Horror2020_Character(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male Body
+      parentName: Horror2020_Character(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: -0.000000030908616, z: 0.000000030908623, w: 0.7071068}
+      scale: {x: 43.25332, y: 43.25332, z: 43.25332}
+    - name: Shirt
+      parentName: Horror2020_Character(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: -0.000000030908616, z: 0.000000030908623, w: 0.7071068}
+      scale: {x: 43.25332, y: 43.25332, z: 43.25332}
+    - name: Hair
+      parentName: Horror2020_Character(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: -0.000000030908616, z: 0.000000030908623, w: 0.7071068}
+      scale: {x: 43.25332, y: 43.25332, z: 43.25332}
+    - name: Pants and Shoes
+      parentName: Horror2020_Character(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: -0.000000030908616, z: 0.000000030908623, w: 0.7071068}
+      scale: {x: 43.25332, y: 43.25332, z: 43.25332}
+    - name: Eyes
+      parentName: Horror2020_Character(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: -0.000000030908616, z: 0.000000030908623, w: 0.7071068}
+      scale: {x: 43.25332, y: 43.25332, z: 43.25332}
+    - name: CharacterRig
+      parentName: Horror2020_Character(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: -0.000000030908616, z: 0.000000030908623, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Pelvis
+      parentName: CharacterRig
+      position: {x: -3.6806576e-18, y: -0.00007191413, z: 0.016576208}
+      rotation: {x: 0.000000058305275, y: 0.6352865, z: 0.7722766, w: 0.000000047962814}
+      scale: {x: 1.0000011, y: 1.0000004, z: 1.0000011}
+    - name: Spine1
+      parentName: Pelvis
+      position: {x: -3.184648e-17, y: 0.0037295579, z: 2.2351741e-10}
+      rotation: {x: 0.09686664, y: 0.000000031637057, z: -0.0000000115473995, w: 0.99529743}
+      scale: {x: 1.0000029, y: 1.0000001, z: 1.0000025}
+    - name: Spine2
+      parentName: Spine1
+      position: {x: 5.7558215e-19, y: 0.004974065, z: -7.137903e-11}
+      rotation: {x: 0.04686194, y: 0.00000008732675, z: 8.881784e-16, w: 0.9989014}
+      scale: {x: 1.0000018, y: 1, z: 1.0000015}
+    - name: Neck
+      parentName: Spine2
+      position: {x: -8.0630547e-19, y: 0.0046088514, z: -1.4901161e-10}
+      rotation: {x: -0.29136348, y: 7.7521617e-10, z: -0.000000023053795, w: 0.95661247}
+      scale: {x: 1.0000013, y: 1.0000002, z: 1.0000006}
+    - name: Head
+      parentName: Neck
+      position: {x: 5.6925286e-17, y: 0.0019641665, z: 0.0000000017136335}
+      rotation: {x: 0.24185418, y: -0.000000115670304, z: -0.000000007687719, w: 0.97031265}
+      scale: {x: 0.9999999, y: 1.0000039, z: 0.99999636}
+    - name: Eyes 1
+      parentName: Head
+      position: {x: -1.3597913e-12, y: 0.0016633492, z: -0.000009005386}
+      rotation: {x: -0.6934737, y: 0.00000005439489, z: 0.000000052355816, w: 0.720482}
+      scale: {x: 1.0000023, y: 1.0000015, z: 1.0000004}
+    - name: Shoulder.L.001
+      parentName: Spine2
+      position: {x: 0.0015281753, y: 0.0036840402, z: 0.00008696386}
+      rotation: {x: 0.040374734, y: 0.010849289, z: 0.810944, w: -0.58362824}
+      scale: {x: 1.000001, y: 1.0000021, z: 1.0000024}
+    - name: UpperArm.L.001
+      parentName: Shoulder.L.001
+      position: {x: -0.0000000013348236, y: 0.0023846051, z: -7.4505804e-11}
+      rotation: {x: 0.028212866, y: -0.0023307544, z: 0.13675109, w: 0.9902009}
+      scale: {x: 0.9999953, y: 1.0000061, z: 1.0000005}
+    - name: LowerArm.L.001
+      parentName: UpperArm.L.001
+      position: {x: -0.0000000018088974, y: 0.0037656075, z: -3.8531026e-11}
+      rotation: {x: 0.00000001117587, y: 0.000000043772157, z: 0.017869893, w: 0.9998403}
+      scale: {x: 1.0000004, y: 0.9999996, z: 1.0000007}
+    - name: Hand.L.001
+      parentName: LowerArm.L.001
+      position: {x: -5.7598254e-10, y: 0.0051778317, z: -1.3192931e-11}
+      rotation: {x: 0.000000023330958, y: -0.000000008139817, z: -0.025525605, w: 0.9996742}
+      scale: {x: 0.99999964, y: 1.0000015, z: 1.0000004}
+    - name: Shoulder.R.001
+      parentName: Spine2
+      position: {x: -0.0015281753, y: 0.0036840402, z: 0.000086963606}
+      rotation: {x: -0.040374648, y: 0.01084944, z: 0.81094366, w: 0.58362883}
+      scale: {x: 1.0000015, y: 1.0000029, z: 1.000004}
+    - name: UpperArm.R.001
+      parentName: Shoulder.R.001
+      position: {x: -0.0000000010472686, y: 0.0023846051, z: 1.3038516e-10}
+      rotation: {x: 0.028212542, y: 0.0023306757, z: -0.13675025, w: 0.99020106}
+      scale: {x: 0.9999948, y: 1.0000064, z: 1.0000013}
+    - name: LowerArm.R.001
+      parentName: UpperArm.R.001
+      position: {x: 0.0000000024047773, y: 0.003765609, z: -3.4485106e-11}
+      rotation: {x: 0.00000001117587, y: -0.00000004097819, z: -0.017869998, w: 0.9998404}
+      scale: {x: 1.0000012, y: 1.0000037, z: 1.0000044}
+    - name: Hand.R.001
+      parentName: LowerArm.R.001
+      position: {x: 0.0000000011720289, y: 0.005177831, z: 3.8307135e-12}
+      rotation: {x: 0.00000008247197, y: 0.00000003062158, z: 0.025525605, w: 0.9996742}
+      scale: {x: 1, y: 1.0000027, z: 1.0000023}
+    - name: UpperLeg.L.001
+      parentName: Pelvis
+      position: {x: 0.0018519548, y: 0.00085506303, z: -0.00057419785}
+      rotation: {x: -0.0013135653, y: -0.067331664, z: 0.9976766, w: -0.010300642}
+      scale: {x: 1.0000013, y: 1.0000027, z: 1.000015}
+    - name: LowerLeg.L.001
+      parentName: UpperLeg.L.001
+      position: {x: 1.514539e-10, y: 0.007026307, z: 3.3469404e-11}
+      rotation: {x: -0.017278215, y: 0.00008282274, z: 0.0019710248, w: 0.9998488}
+      scale: {x: 0.99999994, y: 1.0000012, z: 1.0000019}
+    - name: Foot.L.001
+      parentName: LowerLeg.L.001
+      position: {x: -9.339415e-11, y: 0.009265428, z: 1.6589183e-11}
+      rotation: {x: -0.6286309, y: 0.0075285668, z: -0.0097982995, w: 0.77760565}
+      scale: {x: 0.99999994, y: 1.0000015, z: 1.0000026}
+    - name: UpperLeg.R.001
+      parentName: Pelvis
+      position: {x: -0.0018519552, y: 0.00085506187, z: -0.0005741975}
+      rotation: {x: 0.0013137439, y: -0.067331664, z: 0.9976766, w: 0.010300643}
+      scale: {x: 1.0000013, y: 1.0000024, z: 1.0000154}
+    - name: LowerLeg.R.001
+      parentName: UpperLeg.R.001
+      position: {x: -3.220094e-11, y: 0.0070263054, z: -6.0535965e-11}
+      rotation: {x: -0.017278215, y: -0.000082808656, z: -0.0019710378, w: 0.9998488}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000006}
+    - name: Foot.R.001
+      parentName: LowerLeg.R.001
+      position: {x: 7.012914e-11, y: 0.009265429, z: -1.6152626e-11}
+      rotation: {x: -0.62863094, y: -0.0075287498, z: 0.009798448, w: 0.77760565}
+      scale: {x: 1, y: 1.0000006, z: 1.000002}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Pelvis
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
